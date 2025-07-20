@@ -1,18 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ajay Vajastudy</h1>
-<h3 align="center">A passionate Full Stack Developer (Flutter & Django) from India</h3>
+<h3 align="center">👋 Welcome to my GitHub profile!</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajayvajastudy&label=Profile%20views&color=0e75b6&style=flat" alt="ajayvajastudy" />
-</p>
 
----
-
-- 🔭 I’m currently working on **Smart Photo Archiver (Flutter + Django)**
-- 🌱 I’m currently learning **SCADA, MES, and Advanced Django & Flutter**
+- 🔭 I’m currently working on **Smart Archiver**
+- 🌱 I’m currently learning **Advanced Django**
 - 👯 I’m looking to collaborate on **AI & Automation Projects**
-- 💬 Ask me about **Flutter, Django, MySQL, REST APIs, and Full Stack Development**
-- 📫 How to reach me: **ajayvajastudy@gmail.com**
-- ⚡ Fun fact: I break down complex tech into simple logic — like solving puzzles with code 🧩
+- 💬 Ask me about **Django, MySQL, REST APIs**
+- 📫 How to reach me: **ajayvaja2127@gmail.com**
+- ⚡ Fun fact: I enjoy learning something new every day. 🧩
 
 ---
 
